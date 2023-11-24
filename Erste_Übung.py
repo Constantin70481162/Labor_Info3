@@ -1,0 +1,2 @@
+class Warenkorb:
+    pass
